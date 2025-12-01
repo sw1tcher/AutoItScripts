@@ -1,6 +1,7 @@
 # AutoIt Scripts
 # Default Printer Selector (AutoIt)
-https://github.com/sw1tcher/AutoItScripts/edit/main/README.md#%D0%B2%D1%8B%D0%B1%D0%BE%D1%80-%D0%BF%D1%80%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B0-%D0%BF%D0%BE-%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E-autoit
+
+[Russian](#russian)
 
 A lightweight Windows utility written in AutoIt that allows users to view all installed printers and change the default printer with a single click.
 
@@ -57,7 +58,7 @@ MIT License — free to use, modify, and distribute.
 Pull requests and improvements are welcome!
 
 ---
-# Выбор принтера по умолчанию (AutoIt)
+<a id="russian"># Выбор принтера по умолчанию (AutoIt)</a>
 
 Лёгкая утилита для Windows, написанная на AutoIt, позволяющая просматривать список установленных принтеров и менять принтер по умолчанию в один клик.
 
