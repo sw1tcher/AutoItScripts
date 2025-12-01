@@ -17,7 +17,7 @@ This tool is ideal for environments where users frequently switch between multip
 - ✔ Works on Windows 7 / 8 / 10 / 11  
 - ✔ No installation required — portable EXE can be created  
 - ✔ Clean and minimalistic GUI  
-- ✔ Compatible with older AutoIt builds
+- ? Compatible with older AutoIt builds
 
 ---
 
@@ -74,7 +74,7 @@ Pull requests and improvements are welcome!
 - ✔ Работает на Windows 7 / 8 / 10 / 11  
 - ✔ Не требует установки — можно собрать portable EXE  
 - ✔ Минималистичный и понятный интерфейс  
-- ✔ Совместимо со старыми версиями AutoIt  
+- ? Совместимо со старыми версиями AutoIt  
 
 ---
 
